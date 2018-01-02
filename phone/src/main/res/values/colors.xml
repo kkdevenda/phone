@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="secondaryColor">#ffffff</color>
+
+
+    <color name="app_background_gradient">#55F4F4F4</color>
+
+
+    <!-- Default Text Colors -->
+    <color name="text_base">#6a6a6a</color>
+    <color name="text_secondary">#888888</color>
+    <color name="text_tertiary">#b2b2b2</color>
+    <color name="text_disabled">#7e888888</color>
+    <color name="text_error">#DD2C00</color>
+    <color name="text_warning">#D78A00</color>
+    <color name="text_highlight">@color/colorAccent</color>
+</resources>
